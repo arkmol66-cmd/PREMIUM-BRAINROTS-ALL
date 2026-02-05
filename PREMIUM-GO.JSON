@@ -1,1 +1,63 @@
+[
+    {
+        "USERNAME": "admin",
+        "SENHAS": "admin123",
+        "NIVEL_PREMIUM": "9",
+        "PREMIUM_LOG": "Permanente"
+    },
+    {
+        "USERNAME": "joao_silva",
+        "SENHAS": "senha123",
+        "NIVEL_PREMIUM": "5",
+        "PREMIUM_LOG": "Até 31/12/2026"
+    },
+    {
+        "USERNAME": "maria_santos",
+        "SENHAS": "maria2024",
+        "NIVEL_PREMIUM": "7",
+        "PREMIUM_LOG": "Até 15/06/2026"
+    },
+    {
+        "USERNAME": "pedro_gamer",
+        "SENHAS": "gamer456",
+        "NIVEL_PREMIUM": "1",
+        "PREMIUM_LOG": "N/A"
+    },
+    {
+        "USERNAME": "ana_costa",
+        "SENHAS": "ana789",
+        "NIVEL_PREMIUM": "4",
+        "PREMIUM_LOG": "Até 20/08/2026"
+    },
+    {
+        "USERNAME": "carlos_dev",
+        "SENHAS": "dev2024",
+        "NIVEL_PREMIUM": "9",
+        "PREMIUM_LOG": "Permanente"
+    },
+    {
+        "USERNAME": "julia_tech",
+        "SENHAS": "tech999",
+        "NIVEL_PREMIUM": "2",
+        "PREMIUM_LOG": "N/A"
+    },
+    {
+        "USERNAME": "lucas_pro",
+        "SENHAS": "pro123",
+        "NIVEL_PREMIUM": "6",
+        "PREMIUM_LOG": "Até 10/03/2026"
+    },
+    {
+        "USERNAME": "fernanda_vip",
+        "SENHAS": "vip2024",
+        "NIVEL_PREMIUM": "8",
+        "PREMIUM_LOG": "Permanente"
+    },
+    {
+        "USERNAME": "teste",
+        "SENHAS": "123",
+        "NIVEL_PREMIUM": "3",
+        "PREMIUM_LOG": "Até 01/01/2027"
+    }
+]
 
