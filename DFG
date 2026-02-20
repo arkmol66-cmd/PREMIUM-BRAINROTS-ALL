@@ -1,0 +1,26 @@
+[
+    {
+        "USERNAME": "admin",
+        "DISPLAY_NAME": "Administrador",
+        "SENHAS": "admin123",
+        "NIVEL_PREMIUM": "9",
+        "PREMIUM_LOG": "Permanente",
+        "VOCE_TEM": "ALL"
+    },
+    {
+        "USERNAME": "arthur_novo_SINTO_MUITO_ALEATORIAL_HSUFHIOASDJFDOAISJFKSDYFASDJTFASDHJFSDHJFGSDFGASDUDJHF",
+        "DISPLAY_NAME": "arthur",
+        "SENHAS": "UIYduifysdiuafysduifyasduifhyweuioksarjkweuqirywe897d289uwioucqsfuweiojs89dacyweiufuw    89fywdivhcwuhsdauewiofhdoswqfehiofjasdjkhewifuqwiaoeucskdavjioefjdowjhowjvhuwoaswwi0fusdoiifhweuifujsdkjcsdkljekwfjwosifjweiofuweioqfusdioajsdjAKDJASDJHSDG",
+        "NIVEL_PREMIUM": "DEL_JA PASOU DO DIA DE PAGAENTO ",
+        "PREMIUM_LOG": "DEL_ERROS",
+        "VOCE_TEM": "DEL_ERROS"
+    },
+    {
+        "USERNAME": "TESTE_ADM",
+        "DISPLAY_NAME": "CONT_DESTE",
+        "SENHAS": "NOT TESTE",
+        "NIVEL_PREMIUM": "9",
+        "PREMIUM_LOG": "Permanente",
+        "VOCE_TEM": "ALL"
+    }
+]
